@@ -36,11 +36,10 @@
 
 ## 🏆 Github Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lx006&show_icons=true&locale=en&layout=compact" alt="lx006" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lx006&show_icons=true&locale=en" alt="lx006" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lx006&" alt="lx006" /></p>
+<img  src="https://github-readme-stats.vercel.app/api?username=lx006&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=lx006&theme=dark" width="45%" >
+<br>
+<div align="center">
 
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
