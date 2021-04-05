@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋,(Namaste)🙏 I'm Laxmi Dawane</h1>
-<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
+<h3 align="center">I'm a Software Developer from India ❤</h3>
 <p><em>A 20Y/O Software🌈 and Web developer🎯 from India.I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lx006&label=Profile%20views&color=0e75b6&style=flat" alt="lx006" /> </p>
