@@ -36,7 +36,7 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=lx006&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=lx06&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lx006&theme=dark" width="45%" >
 <br>
 <div align="center">
